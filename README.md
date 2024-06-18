@@ -13,4 +13,4 @@ Most of my programming experience is in Go, Python, and C, ranging from full-sta
 [1]: https://en.wikipedia.org/wiki/Unix_philosophy
 [2]: https://en.wikipedia.org/wiki/KISS_principle
 [3]: https://git.sr.ht/~kvo/
-[4]: https://sr.ht/~kvo/taskcollect
+[4]: https://tacodevs.github.io
