@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm kvo, a software developer studying Computer Science at the University of Adelaide.
+I'm kvo, a software developer studying Advanced Computer Science at the University of Adelaide.
 
 My software engineering principles are primarily inherited from the [Unix philosophy][1] and the [KISS principle][2], with a desire to create reliable, maintainable, and intuitive software. My main projects are available on [SourceHut][3].
 
